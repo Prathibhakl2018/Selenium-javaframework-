@@ -25,7 +25,7 @@ public class Bind {
             	XSSFCell currentcell=currentrow.getCell(c);
             	System.out.println(currentcell.toString());
             	
-            	
+            	//
                     }
             System.out.println();
             
